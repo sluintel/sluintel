@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sluintel
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: sluintel@gmail.com
 
 <!---
