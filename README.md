@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sluintel
-- 🌱 I’m currently learning Python
+- I’m currently learning Vibe Coding 🤔
 - 📫 How to reach me: sluintel@gmail.com
 
 <!---
